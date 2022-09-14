@@ -1,0 +1,15 @@
+{
+  "name": "javascript-create-koa-server",
+  "version": "1.0.0",
+  "description": "javascript create koa server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mustafa Oğuz Baran",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-router": "^12.0.0"
+  }
+}
